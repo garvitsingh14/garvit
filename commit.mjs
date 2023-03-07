@@ -61,8 +61,8 @@ const commit= () => {
   const commit= {
     tree:rootobject,
     parent: parent===undefined ? null : parent,
-    author :"garv",
-    commiter: "garv",
+    author :"garvit",
+    commiter: "garvit",
      message : "hardcoded message"  };
        //creating the hash of the root tree
 
